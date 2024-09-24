@@ -39,16 +39,3 @@ The dataset was preprocessed to clean the text, remove stopwords, and balance th
 ### 4. AdaBoost Classifier
 - **Accuracy**: 82%
 - AdaBoost focused on misclassified instances and boosted weak learners, balancing accuracy with robustness.
-
-
-### Key Sections:
-1. **Overview**: Brief project description.
-2. **Project Structure**: Explanation of the directory layout.
-3. **Dataset**: Information about the dataset and preprocessing steps.
-4. **Models and Techniques**: Description of the models with their performance.
-5. **Installation**: Step-by-step guide to set up the project.
-6. **Usage**: Instructions to run preprocessing, training, and evaluation scripts.
-7. **Results**: Table comparing model performance.
-8. **Future Work**: Suggestions for further development.
-9. **Contributing**: Information on how to contribute to the project.
-10. **License**: License details for the project.
