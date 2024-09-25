@@ -38,4 +38,4 @@ The dataset was preprocessed to clean the text, remove stopwords, and balance th
 
 ### 4. AdaBoost Classifier
 - **Accuracy**: 82%
-- AdaBoost focused on misclassified instances and boosted weak learners, balancing accuracy with robustness
+- AdaBoost focused on misclassified instances and boosted weak learners, balancing accuracy with robustness.
